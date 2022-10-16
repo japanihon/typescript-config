@@ -1,1 +1,1 @@
-# typescript-config
+# ES LInt Typescript Config
